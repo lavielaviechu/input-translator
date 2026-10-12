@@ -5,8 +5,6 @@
 // @description  유저의 입력을 원하는 언어로 번역
 // @author       뤼붕이
 // @match        https://crack.wrtn.ai/*
-// @downloadURL  https://raw.githubusercontent.com/wrtn321/userjs/main/inputtrans.user.js
-// @updateURL    https://raw.githubusercontent.com/wrtn321/userjs/main/inputtrans.user.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_registerMenuCommand
 // @connect      generativelanguage.googleapis.com
